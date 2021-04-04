@@ -1,7 +1,7 @@
 ## This will help track calls on a daily basis
 from time import time, ctime
 
-print("Thanks for using the NWN ticket script. please follow the instructions below: ")
+print("Thanks for using the ticket script. please follow the instructions below: ")
 print("When you are asked for the company number, use the following guide: ")
 print("0 for A \n 1 for company b\n 2 for company c \n 3 for company d")
 
